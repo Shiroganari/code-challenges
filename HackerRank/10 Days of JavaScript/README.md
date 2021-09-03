@@ -7,3 +7,4 @@ Learn and improve your Javascript fundamentals.
 - [Day 01 - Arithmetic Operators](https://github.com/Shiroganari/code-challenges/tree/main/HackerRank/10%20Days%20of%20JavaScript/Day%2001%20-%20Arithmetic%20Operators)
 - [Day 01 - Functions](https://github.com/Shiroganari/code-challenges/tree/main/HackerRank/10%20Days%20of%20JavaScript/Day%2001%20-%20Functions)
 - [Day 01 - Let and Const](https://github.com/Shiroganari/code-challenges/tree/main/HackerRank/10%20Days%20of%20JavaScript/Day%2001%20-%20Let%20and%20Const)
+- [Day 02 - Conditional Statements If-Else](https://github.com/Shiroganari/code-challenges/tree/main/HackerRank/10%20Days%20of%20JavaScript/Day%2002%20-%20Conditional%20Statements%20If-Else)
