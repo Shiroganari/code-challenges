@@ -12,3 +12,4 @@ Learn and improve your Javascript fundamentals.
 - [Day 02 - Loops](https://github.com/Shiroganari/code-challenges/tree/main/HackerRank/10%20Days%20of%20JavaScript/Day%2002%20-%20Loops)
 - [Day 03 - Arrays](https://github.com/Shiroganari/code-challenges/tree/main/HackerRank/10%20Days%20of%20JavaScript/Day%2003%20-%20Arrays)
 - [Day 03 - Try, Catch and Finally](https://github.com/Shiroganari/code-challenges/tree/main/HackerRank/10%20Days%20of%20JavaScript/Day%2003%20-%20Try,%20Catch%20and%20Finally)
+- [Day 03 - Throw](https://github.com/Shiroganari/code-challenges/tree/main/HackerRank/10%20Days%20of%20JavaScript/Day%2003%20-%20Throw)
