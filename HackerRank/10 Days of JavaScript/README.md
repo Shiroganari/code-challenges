@@ -10,3 +10,4 @@ Learn and improve your Javascript fundamentals.
 - [Day 02 - Conditional Statements If-Else](https://github.com/Shiroganari/code-challenges/tree/main/HackerRank/10%20Days%20of%20JavaScript/Day%2002%20-%20Conditional%20Statements%20If-Else)
 - [Day 02 - Conditional Statements Switch](https://github.com/Shiroganari/code-challenges/tree/main/HackerRank/10%20Days%20of%20JavaScript/Day%2002%20-%20Conditional%20Statements%20Switch)
 - [Day 02 - Loops](https://github.com/Shiroganari/code-challenges/tree/main/HackerRank/10%20Days%20of%20JavaScript/Day%2002%20-%20Loops)
+- [Day 03 - Arrays](https://github.com/Shiroganari/code-challenges/tree/main/HackerRank/10%20Days%20of%20JavaScript/Day%2003%20-%20Arrays)
