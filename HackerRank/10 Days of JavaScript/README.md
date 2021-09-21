@@ -16,5 +16,6 @@ Learn and improve your Javascript fundamentals.
 - [Day 04 - Classes](https://github.com/Shiroganari/code-challenges/tree/main/HackerRank/10%20Days%20of%20JavaScript/Day%2004%20-%20Classes)
 - [Day 04 - Count Objects](https://github.com/Shiroganari/code-challenges/tree/main/HackerRank/10%20Days%20of%20JavaScript/Day%2004%20-%20Count%20Objects)
 - [Day 04 - Create a Rectangle Object](https://github.com/Shiroganari/code-challenges/tree/main/HackerRank/10%20Days%20of%20JavaScript/Day%2004%20-%20Create%20a%20Rectangle%20Object)
+- [Day 05 - Arrow Functions](https://github.com/Shiroganari/code-challenges/tree/main/HackerRank/10%20Days%20of%20JavaScript/Day%2005%20-%20Arrow%20Functions)
 - [Day 05 - Inheritance](https://github.com/Shiroganari/code-challenges/tree/main/HackerRank/10%20Days%20of%20JavaScript/Day%2005%20-%20Inheritance)
 - [Day 05 - Template Literals](https://github.com/Shiroganari/code-challenges/tree/main/HackerRank/10%20Days%20of%20JavaScript/Day%2005%20-%20Template%20Literals)
